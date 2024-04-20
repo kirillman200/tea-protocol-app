@@ -26,5 +26,22 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "Tea-protocol-app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirillman200/tea-protocol-app.git"
+  },
+  "keywords": [
+    "Tea",
+    "App",
+    "Crypto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirillman200/tea-protocol-app/issues"
+  },
+  "homepage": "https://github.com/kirillman200/tea-protocol-app#readme"
 }
